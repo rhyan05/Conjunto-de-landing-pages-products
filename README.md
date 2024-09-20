@@ -5,4 +5,4 @@ Cada circulo ao lado esquerdo e uma imagem, ao clicala, a imagem principal ira m
 Alem disso, esse site e responsivo, ou seja tambem funciona para celular
 
 # Tecnologias
-Foi utilziado para a criação as tecnologias Html, Css e JavaScript
+Foi utilziado para a criação as tecnologias Html e Css
